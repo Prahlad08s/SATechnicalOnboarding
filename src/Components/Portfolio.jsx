@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "JetPack Compose: All About Recomposition 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A blog that helps you understand the basics of JetPack Compose. The Blog contains an easy and effective waay to learn and build applications UI using Jetpack Compose",
+    url: "https://medium.com/@PrahladSingh08/jetpack-compose-all-about-recomposition-1926ffb16a7e",
   },
   {
     title: "Web Development for Beginners",
@@ -43,10 +43,10 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Azure Static Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created my Portfolio Website under MLSA Program. Includes my experience and social media limks.",
+    url: "https://github.com/Prahlad08s/SATechnicalOnboarding",
   },
   {
     title: "GitHub Codespaces and github.dev",
